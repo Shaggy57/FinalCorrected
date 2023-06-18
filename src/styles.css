@@ -123,3 +123,30 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 30px;
+letter-spacing: -0.2px;
+word-spacing: -0.4px;
+color: #000000;
+font-weight: 700;
+text-decoration: underline solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: small-caps;
+text-transform: none;
+text-shadow: 1px 1px 8px #A40000;
+}
+
+.sidebar {
+    background-color:#FF4040; 
+    text-align: center;
+    font-size: 20px;
+    background: #F44747;
+    background: -moz-linear-gradient(top, #F44747 0%, #FFB6B6 50%, #A02D2D 100%);
+    background: -webkit-linear-gradient(top, #F44747 0%, #FFB6B6 50%, #A02D2D 100%);
+    background: linear-gradient(to bottom, #F44747 0%, #FFB6B6 50%, #A02D2D 100%);
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 4px outset #370000;
+    color:#000000
+}

@@ -2,8 +2,11 @@ function FavoriteAlbums() {
     return (
         <>
             <div className="headline"><h1>Hello Everyone!</h1>
-                <p>A little about me, I am a massive hard rock/heavy metal fan. Below, I decided to list out my favorite albums of all time! Consider them must-listen recommendations!</p>
+                <p>A little about me, I am a massive hard rock/heavy metal fan. Below, I decided to list out my favorite albums of all time! Consider them must-listen recommendations! New to metal? Don't worry! I've placed an introduction below!</p>
+                <br />
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/s9xRTeaQDWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
+            
             <table class="table table-hover">
                 <thead>
                     <tr>

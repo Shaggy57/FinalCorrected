@@ -1,8 +1,8 @@
 const FavoriteBands = () => {
     return (
         <><div class='headline'>
-            <h1>Hello Everyone!</h1>
-            <p>Below I listed my all time favorite bands by their genres. You'll notice that I enjoy a large number of subgenres!</p>
+            <h3>Hello Everyone!</h3>
+            <h3>Below I listed my all time favorite bands by their genres. You'll notice that I enjoy a large number of subgenres!</h3>
         </div>
             <div class="card">
                 <div class='card-header'>Heavy Metal</div>
@@ -46,7 +46,7 @@ const FavoriteBands = () => {
             </div>
             <figure>
                 <blockquote class="blockquote">
-                    <p>Rock and Roll will never die!</p>
+                    <q>Rock and Roll will never die!</q>
                 </blockquote>
                 <figcaption class="blockquote-footer">
                     <cite title="Source Title"> - unknown source</cite>

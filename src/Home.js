@@ -9,6 +9,9 @@ const Home = () => {
         <div className='container'>
             <Rockstar />
         </div>
+        <div className='sidebar'>
+        <aside>Developer's Note: The edit button should be functional now!</aside>
+        </div>
         </>
     )
 }
